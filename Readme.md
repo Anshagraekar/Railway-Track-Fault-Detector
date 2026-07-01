@@ -141,6 +141,24 @@ Upload an image and get prediction.
 
 ---
 
+## Project Demonstration
+
+### Home Page
+
+![Home Page](assets/Home_page.jpg)
+
+### Login Page
+
+![Login Page](assets/Login_page.jpg)
+
+### Detection Page
+
+![Detection Page](assets/Detection_page.jpg)
+
+### Result
+
+![Result](assets/Result.jpg)
+
 ## ⚠️ Important Notes
 
 * Make sure the model file is placed in:
